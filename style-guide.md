@@ -13,20 +13,20 @@ The designs were created to the following widths:
 
 ### Neutral
 
-- **Neutral 900**: `hsl(227, 75%, 14%)`
-- **Neutral 800**: `hsl(226, 25%, 17%)`
-- **Neutral 700**: `hsl(225, 23%, 24%)`
-- **Neutral 600**: `hsl(226, 11%, 37%)`
-- **Neutral 300**: `hsl(0, 0%, 78%)`
-- **Neutral 200**: `hsl(217, 61%, 90%)`
-- **Neutral 100**: `hsl(0, 0%, 93%)`
-- **Neutral 0**: `hsl(200, 60%, 99%)`
+- **Neutral 900**: `#09153eff`
+- **Neutral 800**: `#212636ff`
+- **Neutral 700**: `#2f364bff`
+- **Neutral 600**: `#545969ff`
+- **Neutral 300**: `#c7c7c7ff`
+- **Neutral 200**: `#d6e2f5ff`
+- **Neutral 100**: `#edededff`
+- **Neutral 0**: `#fbfdfeff`
 
 ### Red
 
-- **Red 400**: `hsl(3, 86%, 64%)`
-- **Red 500**: `hsl(3, 71%, 56%)`
-- **Red 700**: `hsl(3, 77%, 44%)`
+- **Red 400**: `#f25c54ff`
+- **Red 500**: `#de473fff`
+- **Red 700**: `#c7221aff`
 
 ### Gradient
 
