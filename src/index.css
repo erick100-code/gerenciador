@@ -11,7 +11,7 @@ html, body {
     min-height: 100vh;
     max-width: 100vw;
 
-    font-family: 'main', serif;
+    font-family: 'main', Arial, Helvetica, sans-serif;
 }
 
 div#root {
